@@ -2,15 +2,15 @@ project:
   type: website
 
 website:
-  title: "Meshal alotaibie"
+  title: "Meshal alotaibi"
   favicon: "images/1.jpg"
   page-footer:
     center: |
-      [Contact Meshal alotaibie](Meshal.alotaibie1@gmail.com)
+      [Contact Meshal alotaibi](Meshal.alotaibie1@gmail.com)
     left: |
-      Made with [Meshal alotaibie](https://quarto.org/)
+      Made with [Meshal alotaibi](https://github.com/meshalalotaibie)
     right: |
-      [Github Code Repo](https://github.com)
+      [Github Code Repo](https://github.com/meshalalotaibie/personal_portfolio_meshalalotaibie.git)
     background: "#e3275a"
     
   navbar:
@@ -30,6 +30,6 @@ format:
   html:
     theme:
       light: cyborg
-      dark: [yeti, theme_dark_custom.scss]
+      dark: [lux, theme_dark_custom.scss]
     highlight-style: github
 editor: visual
