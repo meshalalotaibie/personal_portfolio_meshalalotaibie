@@ -2,13 +2,12 @@
 title: "Personal Information"
 author: "Meshal alotaibi"
 date: "2024-02-10"
-categories: [technology]
+categories: [information]
 ---
 
 ## Personal Information
 
-![](thumbnail.jpg)
-
+![](thumbnail.jpg){width="505"}
 
 <iframe width="800" height="800" src="bio_info.pdf">
 
