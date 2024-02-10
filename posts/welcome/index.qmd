@@ -1,11 +1,14 @@
 ---
-title: "Project #1: Rhetorical Analysis"
+title: "Personal Information"
 author: "Meshal alotaibi"
-date: "2024-01-16"
+date: "2024-02-10"
 categories: [technology]
 ---
 
 ## Personal Information
+
+![](thumbnail.jpg)
+
 
 <iframe width="800" height="800" src="bio_info.pdf">
 
