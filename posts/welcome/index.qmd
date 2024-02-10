@@ -5,8 +5,16 @@ date: "2024-01-16"
 categories: [technology]
 ---
 
-***`Rhetorical Analysis`***
+## Personal Information
 
-![](thumbnail.jpg)
+<iframe width="800" height="800" src="bio_info.pdf">
 
-## 
+</iframe>
+
+<iframe width="800" height="800" src="cover_letter.pdf">
+
+</iframe>
+
+<iframe width="800" height="800" src="main_resume.pdf">
+
+</iframe>
