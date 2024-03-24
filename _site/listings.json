@@ -10,6 +10,7 @@
     "listing": "/projects.html",
     "items": [
       "/posts/third project/index.html",
+      "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
   }
