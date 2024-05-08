@@ -1,11 +1,10 @@
 ---
-title: "Personal Information"
+title: "Personal information"
 author: "Meshal alotaibi"
-date: "2024-02-10"
-categories: [information]
+date: "2024-02-15"
+categories: [Technology, Innovation, Bussiness]
+image: "thumbnail.jpg"
 ---
-
-## Personal Information
 
 ![](thumbnail.jpg){width="505"}
 
