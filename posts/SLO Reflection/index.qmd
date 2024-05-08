@@ -8,6 +8,8 @@ image: "image.jpg"
 
 # *`SLO Reflection`*
 
+<https://drive.google.com/file/d/1O8__lPBTQkESA-5eVsEM4dO2WGryFAqT/view>
+
 When preparing my presentation about integrating Artificial Intelligence (AI) into higher education I used visuals purposefully to facilitate the comprehension of my ideas and make sure the report delivered that information that was captivating and educational. Among other things, I tried to use pictures and symbols that were connected to the subject of AI education. For instance, visualization of robots in classrooms, AI-enabled analytics platforms, and a virtual learning environment were depicted to give real-life scenario for the abstract ideas in the text. Such visual aids acted as operational demonstrations of AI applications, and thus, helped to fill in the theoretical explanation with the actual use. These images certainly assisted in making the transmission of information detailed and visualizing the interaction between different systems, which otherwise could be very intricate when mentioned only using words or writing down text.
 
 I basically found out during this project a lot about the interaction between the graphics and information in writing. Visual elements function as both visual supports for the written text and also present information more efficiently than the written content would do. They perform the function of landmarks and anchors that draw attention; on the other hand, they serve for memory consolidating the message being transmitted. It is a visual and auditory presentation medium, and inherently, the synergy between these components is needed to ensure clarity of communication and effective engagement of the audience.
