@@ -1,0 +1,14 @@
+{
+  "hash": "502846edc0701cf7d8de614cfebffeb6",
+  "result": {
+    "markdown": "---\ntitle: \"Designing and building a new highway to connect two major cities.\"\nauthor: \"Meshal alotaibie\"\ndate: \"2024-01-19\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

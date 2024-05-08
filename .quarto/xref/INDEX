@@ -1,0 +1,35 @@
+{
+  "index.qmd": {
+    "index.html": "5ad5ca01"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "395217e2"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "c5abaee0"
+  },
+  "project1.qmd": {
+    "project1.html": "e708a57c"
+  },
+  "project2.qmd": {
+    "project2.html": "08ffcae7"
+  },
+  "project3.qmd": {
+    "project3.html": "4bac9d8c"
+  },
+  "projects.qmd": {
+    "projects.html": "792a24b8"
+  },
+  "about.qmd": {
+    "about.html": "9b99b2d8"
+  },
+  "posts/third project/index.qmd": {
+    "index.html": "3a5b372b"
+  },
+  "posts/rhetoral analysis/index.qmd": {
+    "index.html": "995ac3ef"
+  },
+  "posts/SLO Reflection/index.qmd": {
+    "index.html": "2d6920ac"
+  }
+}
